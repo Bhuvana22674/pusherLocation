@@ -29,7 +29,7 @@ gem 'mongoid'
 gem 'bson_ext'
 #map
 gem 'coffee-script-source', '1.8.0'
-gem 'bootstrap', '~> 4.1.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem 'pusher'
 gem 'figaro'
